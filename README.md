@@ -4,9 +4,11 @@ A clone of super Mario game in assembly language.
 This is our COAL-LAB project.
 
 Group Members
-	Asad Tariq						-------------			19I-0659
-	Muhammad Hassan Rana			-------------			19I-0511
-	Hassan Ahmed 					-------------			19I-0723
+Asad Tariq ------------- 19I-0659
+	
+Muhammad Hassan Rana ------------- 19I-0511
+
+Hassan Ahmed ------------- 19I-0723
 	
 	
 	---------- MARIO GAME --------
